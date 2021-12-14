@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t log4jdetect 
+docker build -t log4jdetect ./src
